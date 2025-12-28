@@ -1,0 +1,9 @@
+Download git for linux
+
+	1. Create a bash file in linux
+	2. Git init -> Initialize a git repository
+	3. Basic commands:
+	Git add
+	Git commit
+	Git push
+	
